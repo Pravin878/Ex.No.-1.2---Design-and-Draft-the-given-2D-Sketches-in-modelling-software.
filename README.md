@@ -35,7 +35,9 @@
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
- ## OUTPUT
+ ## OUTPUT:
+ ![image](https://user-images.githubusercontent.com/118799555/229802032-7101c5ac-d9c7-4497-b3f9-66dd84f7c9e3.png)
+
  
  
  ## RESULT
